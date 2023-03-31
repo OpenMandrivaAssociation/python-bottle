@@ -2,7 +2,7 @@
 
 Name:           python-%{srcname}
 Version:        0.12.23
-Release:        1
+Release:        2
 Summary:        Fast and simple WSGI-framework for small web-applications
 
 Group:          Development/Python
