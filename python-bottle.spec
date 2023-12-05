@@ -1,8 +1,8 @@
 %define srcname bottle
 
 Name:           python-%{srcname}
-Version:        0.12.23
-Release:        2
+Version:        0.12.25
+Release:        1
 Summary:        Fast and simple WSGI-framework for small web-applications
 
 Group:          Development/Python
