@@ -1,8 +1,8 @@
 %define srcname bottle
 
 Name:           python-%{srcname}
-Version:        0.13.1
-Release:        2
+Version:        0.13.4
+Release:        1
 Summary:        Fast and simple WSGI-framework for small web-applications
 
 Group:          Development/Python
@@ -36,4 +36,5 @@ rm %{buildroot}%{_bindir}/bottle.py
 
 %files
 %doc README.rst PKG-INFO
+%{_bindir}/%{srcname}
 %{python_sitelib}/*
